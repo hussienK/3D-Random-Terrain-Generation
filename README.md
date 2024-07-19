@@ -11,7 +11,7 @@ You can try the project [here](https://hk-studio.itch.io/procedural-terrain-gene
 ## Features
 
 - Procedural generation of 3D terrains.
-- Infinite terrain variations.
+- Infinite terrain variations depending on seed.
 - Real-time generation and rendering.
 
 ## How to Run
